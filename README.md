@@ -3,7 +3,6 @@
 Welcome to the **Color Gradient Generator**!  
 This is a simple and interactive web project built using **HTML**, **CSS**, and **JavaScript** that allows users to generate beautiful linear gradients and copy the CSS code instantly.
 
-![Screenshot](https://github.com/dishusingla001/Javascript-Projects/assets/your-screenshot-link) <!-- (optional: add screenshot URL here) -->
 
 ---
 
