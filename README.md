@@ -18,7 +18,7 @@ This is a simple and interactive web project built using **HTML**, **CSS**, and 
 ## 🚀 Live Demo
 
 You can try it out here:  
-**[Live Project on GitHub Pages](https://dishusingla001.github.io/Javascript-Projects/Color%20Gradient/)**  
+**[Live Project on GitHub Pages](https://dishusingla001.github.io/Background-Gradient/)**  
 *(Make sure you've deployed it. I can help if needed.)*
 
 ---
